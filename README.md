@@ -6,6 +6,3 @@ Whereas many gits are mainly homes for single projects, our repositories include
 
 ## Contact Info
 If you are a developer and have a project idea or wish to contribute to an existing Amateur Radio-related development project, contact the ERCNHARES development team at ercnharesdev@gmail.com.
-
-![Image](https://github.com/user-attachments/assets/8e6f6839-f9ea-4cc7-bad7-c069e0b85405)
-
